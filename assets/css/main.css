@@ -122,7 +122,7 @@ input, select, textarea {
 		}
 	
 	a.image.avatar {
-		background: url('/images/nathan-picture.jpeg');
+		background: url('/images/nathan-picture.png');
 		width: 100px;
 		height: 100px;
 		background-size: 280%;
