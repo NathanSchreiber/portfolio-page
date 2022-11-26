@@ -1,11 +1,5 @@
 This is my portfolio site showcasing my work. I hope you enjoy, thanks for checking it out!
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-
-(* = Not included)
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
 Credits:
 
 	Demo Images:
